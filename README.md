@@ -1,6 +1,13 @@
-### Hi there 👋
-
+### Hi there, I'm Yash!👋
+## I am intersted in Flutter, Android.
+## Check out my projects.
 <!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yashhalgaonkar&show_icons=true&include_all_commits=true&theme=radical&count_private=true" />
+</a>
+
+
+
 **yashhalgaonkar/yashhalgaonkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
