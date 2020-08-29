@@ -1,4 +1,4 @@
-### Hi SHIVANI is there 👋
+### Hi Yash is there 👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashhalgaonkar&label=Profile Views&color=blue&style=plastic" alt="yashhalgaonkar" /> </p>
 
 <a href="https://www.linkedin.com/in/yash-halgaonkar-601394186/">
